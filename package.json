@@ -1,5 +1,5 @@
 {
-  "name":"AngularJS-RequireJS-StarterKit",
+  "name":"AngularJS-Basics",
   "version": "0.0.4",
   "devDependencies": {
     "grunt": "~0.4.1",
