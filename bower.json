@@ -1,0 +1,15 @@
+{
+	"name": "AngularJS-RequireJS-StarterKit",
+	"version": "0.0.4",
+	"dependencies": {
+		"angular" : "1.0",
+		"underscore": "1.5.x",
+		"requirejs": "2.1.8",
+		
+		"jquery": "1.10.x",
+		
+		
+		"bootstrap": "3.x"
+		
+	}
+}
