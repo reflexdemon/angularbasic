@@ -1,5 +1,5 @@
 define(['app/app'], function(app){
-	console.group('Chargement du service AlertService');
+	console.group('Loading Service AlertService');
 
 	app.factory('AlertService', function ($window){
 		return {

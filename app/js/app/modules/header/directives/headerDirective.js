@@ -1,5 +1,5 @@
 define(['app/app'], function(app){
-	console.group('Chargement de la directive AppHeader');
+	console.group('Loading directive AppHeader');
 
 	app.directive('appHeader', function ($compile){
 		return {
