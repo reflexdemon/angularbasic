@@ -1,6 +1,8 @@
 angularbasic
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reflexdemon/angularbasic.svg)](https://greenkeeper.io/)
+
 This project is to learn angularjs
 
 
